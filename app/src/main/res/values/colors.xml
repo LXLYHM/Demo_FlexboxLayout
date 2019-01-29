@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 更浅色字体-->
+    <color name="colorTextPrimaryMoreLight">#979797</color>
+    <color name="white">#ffffff</color>
+    <!-- 浅橘色背景 -->
+    <color name="colorLableBg">#F9E9E4</color>
+    <!-- 橘色 -->
+    <color name="colorOrange">#E16235</color>
+</resources>
